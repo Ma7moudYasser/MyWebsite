@@ -1,0 +1,21 @@
+body{
+  background-color:#ffd56b;
+}
+.btn{
+  background-color: #ff7b54;
+}
+header{
+  background-color: black;
+  text-color: white;
+  /* margin-left: 250px;
+  margin-right: 250px; */
+}
+#navbarSupportedContent{
+  margin-left: 250px;
+}
+.navbar-brand{
+  margin-left: 100px;
+}
+a{
+  color: white;
+}
